@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left"><h2>Experiência:</h2><br>💼 Em busca de estágio</p>
+<p align="left"><h2>Experiência:</h2><br>💼 Realizei projetos funcionais usando o Python e SQL pelo VS Code e MySQL... Também tenho conhecimento básico em Html, Css e JavaScript.</p>
 
 ###
 
