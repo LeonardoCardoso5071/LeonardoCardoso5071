@@ -10,7 +10,7 @@
 </div>
 --->
 ###
-
+ 
 <p align="left">🎓 (Cursando) - Análise e desenvolvimento de sistemas na Uninter.</p>
 
 ###
