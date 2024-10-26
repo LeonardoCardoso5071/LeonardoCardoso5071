@@ -1,4 +1,6 @@
-<h4 align="left">Olá 🥳! <br>Me chamo Leonardo Cardoso 🙋‍♂️<br><br>👨‍🎓  Estudante  da Programação 👨‍💻</h4>
+<h2 align="left">Olá 🥳!<br>Me chamo Leonardo Cardoso 🙋‍♂️</h2>
+
+###
 
 ###
   <!--- Grafico 
@@ -9,6 +11,19 @@
 --->
 ###
 
+<p align="left">🎓 (Cursando) - Análise e desenvolvimento de sistemas na Uninter.</p>
+
+###
+
+<p align="left"><h2>Experiência:</h2><br>💼 Em busca de estágio</p>
+
+###
+
+
+<p align="left"><h2>Tecnologias</h2><br>🌐 Front-end: HTML, CSS e JavaScript<br>🖥️ Back-end: Python<br>🗃️ Banco de dados: MySQL.<br>🧰 Ferramentas de Desenvolvimento: Git, GitHub</p>
+
+###
+<!--- Imagem a direita --->
 <img align="right" height="150" src="https://github.com/user-attachments/assets/581fe799-8c48-4939-9354-215ffeb15f0c"  />
 
 ###
@@ -32,14 +47,10 @@
 <div align="left">
   <!--- Linkdin --->
   <a href="https://www.linkedin.com/in/leonardo-cardoso-s-hora-56a153180/" target=_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <!--- Facebook --->   
-  <a href="https://www.facebook.com/profile.php?id=100003140032409" target=_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <!--- WhatsApp --->   
+ <a href="https://wa.me/5511948338287" target=_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <!--- Outlook --->   
   <a href="mailto:leo-2408@hotmail.com" target=_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <!--- Instagram --->     
-  <a href="https://www.instagram.com/leonardocardososh/" target=_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <!--- Twitter --->     
-  <a href="https://x.com/LeoCardoso5071" target=_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
 ###
