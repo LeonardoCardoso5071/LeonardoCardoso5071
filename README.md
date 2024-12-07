@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left"><h2>Experiência:</h2><br>💼 Em busca da primeira experiência na carteira na programação.</p>
+<p align="left"><h2>Experiência:</h2><br>💼 Em busca da primeira experiência na carteira no Desenvolvimento de Sistemas ou Análise de Dados.</p>
 
 ###
 
