@@ -20,7 +20,7 @@
 ###
 
 
-<p align="left"><h2>Tecnologias</h2><br>🌐 Front-end: HTML, CSS e JavaScript<br>🖥️ Back-end: Python, Java, Javascript<br>🗃️ Banco de dados: MySQL.<br>🧰 Ferramentas de Desenvolvimento: Git, GitHub</p>
+<p align="left"><h2>Tecnologias</h2><br>🌐 Front-end: HTML, CSS e JavaScript<br>🖥️ Back-end: Python, Java, Javascript<br>🗃️ Banco de dados: MySQL, MongoDB.<br>🧰 Ferramentas de Desenvolvimento: Git, GitHub</p>
 
 ###
 <!--- Imagem a direita --->
