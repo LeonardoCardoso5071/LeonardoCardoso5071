@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left"><h2>Experiência:</h2><br>💼 Em busca da primeira experiência no desenvolvimento de sistemas.</p>
+<p align="left"><h2>Experiência:</h2><br>💼 Em busca de + conhecimento no desenvolvimento de sistemas.</p>
 
 ###
 
