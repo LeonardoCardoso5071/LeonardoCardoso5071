@@ -53,7 +53,7 @@
 
 <div align="left">
   <!--- Linkdin --->
-  <a href="www.linkedin.com/in/leonardo-cardoso-56a153180" target=_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/leonardo-cardoso-56a153180" target=_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <!--- WhatsApp --->   
  <a href="https://wa.me/5511948338287" target=_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <!--- Outlook --->   
